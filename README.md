@@ -13,13 +13,16 @@ using three machine learning algorithms Logistic Regression, Naives Bayes and Ra
 ## Prerequirements for both the code files: -
 
 1.) Jupyter Notebook or google collab.
+
 2.) The datasets provided(.csv files) and the image files(.jpg) provided should be in the same folder as the respective .ipynb files.
 
 
 ## How to run the code: - 
 
 1.) Open the jupyter notebook terminal(or upload and open in google collab) 
+
 2.) Navigate to the folder where the zip file is extracted to and open the respective .ipynb file provided in their respective folder. The code and the output to that code will be visible.
+
 3.) To rerun the whole notebook again, press kernel and press Restart and run all. (For jupyter notebook users)
 
 
